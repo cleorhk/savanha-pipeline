@@ -1,0 +1,65 @@
+[
+    {
+        "product_id": 7,
+        "name": "Chanel Coco Noir Eau De",
+        "category": "fragrances",
+        "brand": "Chanel",
+        "price": 129.99
+    },
+    {
+        "product_id": 8,
+        "name": "Dior J'adore",
+        "category": "fragrances",
+        "brand": "Dior",
+        "price": 89.99
+    },
+    {
+        "product_id": 9,
+        "name": "Dolce Shine Eau de",
+        "category": "fragrances",
+        "brand": "Dolce & Gabbana",
+        "price": 69.99
+    },
+    {
+        "product_id": 10,
+        "name": "Gucci Bloom Eau de",
+        "category": "fragrances",
+        "brand": "Gucci",
+        "price": 79.99
+    },
+    {
+        "product_id": 11,
+        "name": "Annibale Colombo Bed",
+        "category": "furniture",
+        "brand": "Annibale Colombo",
+        "price": 1899.99
+    },
+    {
+        "product_id": 12,
+        "name": "Annibale Colombo Sofa",
+        "category": "furniture",
+        "brand": "Annibale Colombo",
+        "price": 2499.99
+    },
+    {
+        "product_id": 13,
+        "name": "Bedside Table African Cherry",
+        "category": "furniture",
+        "brand": "Furniture Co.",
+        "price": 299.99
+    },
+    {
+        "product_id": 14,
+        "name": "Knoll Saarinen Executive Conference Chair",
+        "category": "furniture",
+        "brand": "Knoll",
+        "price": 499.99
+    },
+    {
+        "product_id": 15,
+        "name": "Wooden Bathroom Sink With Mirror",
+        "category": "furniture",
+        "brand": "Bath Trends",
+        "price": 799.99
+    }
+]

@@ -1,0 +1,182 @@
+[
+    {
+        "id": 1,
+        "user_id": 33,
+        "total_products": 4,
+        "total_amount": 103774.85
+    },
+    {
+        "id": 2,
+        "user_id": 142,
+        "total_products": 5,
+        "total_amount": 4794.8
+    },
+    {
+        "id": 3,
+        "user_id": 108,
+        "total_products": 5,
+        "total_amount": 16775.87
+    },
+    {
+        "id": 4,
+        "user_id": 87,
+        "total_products": 4,
+        "total_amount": 456.83
+    },
+    {
+        "id": 5,
+        "user_id": 134,
+        "total_products": 6,
+        "total_amount": 7431.3
+    },
+    {
+        "id": 6,
+        "user_id": 150,
+        "total_products": 4,
+        "total_amount": 35199.86
+    },
+    {
+        "id": 7,
+        "user_id": 86,
+        "total_products": 3,
+        "total_amount": 145651.89
+    },
+    {
+        "id": 8,
+        "user_id": 23,
+        "total_products": 4,
+        "total_amount": 15685.86
+    },
+    {
+        "id": 9,
+        "user_id": 194,
+        "total_products": 4,
+        "total_amount": 65529.87
+    },
+    {
+        "id": 10,
+        "user_id": 160,
+        "total_products": 2,
+        "total_amount": 29499.92
+    },
+    {
+        "id": 11,
+        "user_id": 172,
+        "total_products": 6,
+        "total_amount": 568.36
+    },
+    {
+        "id": 12,
+        "user_id": 202,
+        "total_products": 2,
+        "total_amount": 931.91
+    },
+    {
+        "id": 13,
+        "user_id": 41,
+        "total_products": 5,
+        "total_amount": 793.07
+    },
+    {
+        "id": 14,
+        "user_id": 94,
+        "total_products": 6,
+        "total_amount": 586.82
+    },
+    {
+        "id": 15,
+        "user_id": 11,
+        "total_products": 5,
+        "total_amount": 11741.31
+    },
+    {
+        "id": 16,
+        "user_id": 200,
+        "total_products": 3,
+        "total_amount": 172.24
+    },
+    {
+        "id": 17,
+        "user_id": 141,
+        "total_products": 4,
+        "total_amount": 192.87
+    },
+    {
+        "id": 18,
+        "user_id": 189,
+        "total_products": 6,
+        "total_amount": 1464.78
+    },
+    {
+        "id": 19,
+        "user_id": 59,
+        "total_products": 4,
+        "total_amount": 933.87
+    },
+    {
+        "id": 20,
+        "user_id": 90,
+        "total_products": 6,
+        "total_amount": 3534.78
+    },
+    {
+        "id": 21,
+        "user_id": 42,
+        "total_products": 2,
+        "total_amount": 251.96
+    },
+    {
+        "id": 22,
+        "user_id": 140,
+        "total_products": 4,
+        "total_amount": 222.88
+    },
+    {
+        "id": 23,
+        "user_id": 147,
+        "total_products": 5,
+        "total_amount": 7757.8
+    },
+    {
+        "id": 24,
+        "user_id": 6,
+        "total_products": 3,
+        "total_amount": 1749.9
+    },
+    {
+        "id": 25,
+        "user_id": 118,
+        "total_products": 2,
+        "total_amount": 412.98
+    },
+    {
+        "id": 26,
+        "user_id": 66,
+        "total_products": 2,
+        "total_amount": 459.92
+    },
+    {
+        "id": 27,
+        "user_id": 75,
+        "total_products": 4,
+        "total_amount": 190.89
+    },
+    {
+        "id": 28,
+        "user_id": 147,
+        "total_products": 2,
+        "total_amount": 209.91
+    },
+    {
+        "id": 29,
+        "user_id": 170,
+        "total_products": 5,
+        "total_amount": 3862.43
+    },
+    {
+        "id": 30,
+        "user_id": 177,
+        "total_products": 4,
+        "total_amount": 128249.07
+    }
+]
